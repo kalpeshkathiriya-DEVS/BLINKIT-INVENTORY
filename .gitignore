@@ -20,6 +20,8 @@ android/build/
 android/app/build/
 android/captures/
 android/.idea/
+android/local.properties
+*.apk
 *.iml
 .idea/
 
@@ -32,3 +34,4 @@ yarn-error.log*
 # OS files
 .DS_Store
 Thumbs.db
+.vscode/
