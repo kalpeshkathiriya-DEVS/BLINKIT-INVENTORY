@@ -1,0 +1,24 @@
+RECOMMENDED QUANTITY ORDER (R.O.)
+Seller Hub STO
+R.O. Number: 2011710136067
+R.O. Date: 12-Nov-2026
+R.O. Expiry Date: 22-Nov-2026
+R.O. Type: Seller Hub STO
+Seller No.: SEL-98421
+Seller Name: Apex Home Essentials Pvt Ltd
+Seller GSTIN: 24AAACA9876Q1Z5
+Seller Address: Plot 42, GIDC Industrial Estate, Vatva, Ahmedabad, Gujarat - 382445
+
+Delivered To (Warehouse):
+BCPL - Kundli Feeder Warehouse
+Blinkit Commerce Private Limited
+Plot No. 182-184, Phase 4, Sector 57, HSIIDC Industrial Area, Kundli, Sonipat, Haryana - 131028
+Blinkit GSTIN: 06AABCB4321P1ZT
+
+Blinkit SPOC:
+Name: Amit Sharma
+Phone: +91 98765 43210
+
+Total Items: 18
+Total Quantity: 1172
+Total Net Amount: INR 4,15,588.00
